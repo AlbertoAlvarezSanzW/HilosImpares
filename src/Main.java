@@ -9,8 +9,8 @@ public class Main {
          */
 
         /*
-        Despues de crear la clase hilos, especificamos un objeto  -> linea 16
-        una vez definido el objeto lo iniciamos con start()       -> linea 17
+        Despues de crear la clase hilos, especificamos un objeto  -> linea 16   , linea 18
+        una vez definido el objeto lo iniciamos con start()       -> linea 17   , linea 19
          */
 
         hilosImpares h1 = new hilosImpares();
