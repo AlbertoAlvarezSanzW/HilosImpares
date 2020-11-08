@@ -15,6 +15,8 @@ public class Main {
 
         hilosImpares h1 = new hilosImpares();
         h1.start();
+        hilosPares h2 = new hilosPares();
+        h2.start();
 
 
     }
